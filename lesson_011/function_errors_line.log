@@ -1,0 +1,3 @@
+Функция: "check_line". Параметры: 'Ярослав bxh@ya.ru 600'. Ошибка: 'ValueError'. Сообщение: Age not in 10..99 range 
+Функция: "check_line". Параметры: 'Тролль nsocnzas.mail.ru 82'. Ошибка: 'ValueError'. Сообщение: it's not a email 
+Функция: "check_line". Параметры: 'Земфира 86'. Ошибка: 'ValueError'. Сообщение: not enough values to unpack (expected 3, got 2) 
